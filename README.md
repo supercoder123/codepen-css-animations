@@ -18,3 +18,5 @@
 
 * [Animate progress bar on hover](https://codepen.io/Ashley_codepen/pen/jpLvPP)
 
+* [Particle effects made using canvas](https://codepen.io/Ashley_codepen/pen/pZKPeG?editors=0010)
+
